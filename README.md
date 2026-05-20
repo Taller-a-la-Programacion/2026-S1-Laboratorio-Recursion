@@ -1,7 +1,7 @@
-# 2025 Semestre 1
+# 2026 Semestre 1
 
 ## Instrucciones Generales
-- El archivo **debe** llamarse **Laboratorio7.py**
+- El archivo **debe** llamarse **Laboratorio.py**
 - **Debe** respetar el nombre de las funciones y el nombre de los parámetros que más adelante se describen
 - Deben contruir las funciones con **Python**
 - Debe utilizar la programación **recursiva**
