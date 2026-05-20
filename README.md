@@ -18,7 +18,7 @@ Seguir las mismas reglas para la conversion, division entera, módulo y exponent
 ```
 
 ## Digitos ordenados
-Construir una función que reciba un número e indique si sus dígitos están ordenados de manera descendente.
+Construir una función que reciba un número e indique si sus dígitos están ordenados de manera ascendente.
 
 ```python
 >>>digitosOrdenados(2345678)
